@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.AssemblyInfo.cs
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.exe
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.deps.json
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.runtimeconfig.json
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.runtimeconfig.dev.json
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.dll
+C:\Users\Upqroo\Documents\Marco\Prod\bin\Debug\net5.0\Prod.pdb
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.dll
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\refint\Prod.dll
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.pdb
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\Prod.genruntimeconfig.cache
+C:\Users\Upqroo\Documents\Marco\Prod\obj\Debug\net5.0\ref\Prod.dll
